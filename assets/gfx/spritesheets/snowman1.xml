@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="snowman1.png" type="bitmap" width="1024" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="true">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:d51f9ef2dba9bbd4fe1ff53bfbed1713:d1144639c969317fb5fbd0059f7989a9:682ceebb9075a371695667b490d39626$ -->
+    <textureregion id="0" src="smana01.png" x="512" y="512" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="1" src="smana02.png" x="768" y="256" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="2" src="smana03.png" x="512" y="256" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="3" src="smana04.png" x="256" y="768" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="4" src="smana05.png" x="256" y="512" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="5" src="smana06.png" x="256" y="256" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="6" src="smana07.png" x="768" y="0" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="7" src="smana08.png" x="512" y="0" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="8" src="smana09.png" x="256" y="0" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="9" src="smana10.png" x="0" y="768" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="10" src="smana11.png" x="0" y="512" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="11" src="smana12.png" x="0" y="256" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="12" src="smana13.png" x="0" y="0" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="13" src="smana14.png" x="742" y="768" width="226" height="236" rotated="false" trimmed="true" srcx="15" srcy="10" srcwidth="256" srcheight="256"/>
+    <textureregion id="14" src="smana15.png" x="512" y="768" width="230" height="238" rotated="false" trimmed="true" srcx="11" srcy="8" srcwidth="256" srcheight="256"/>
+</texture>

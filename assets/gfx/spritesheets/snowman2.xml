@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="snowman2.png" type="bitmap" width="700" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="true">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:b03511458c9092d666d05f4300db6c13:ddfd3a76714bd7c2724e303c18dc214f:f6cfae47a33cc702896358d31e805355$ -->
+    <textureregion id="0" src="smanb01.png" x="525" y="768" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="1" src="smanb02.png" x="525" y="512" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="2" src="smanb03.png" x="350" y="768" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="3" src="smanb04.png" x="350" y="512" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="4" src="smanb05.png" x="175" y="768" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="5" src="smanb06.png" x="175" y="512" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="6" src="smanb07.png" x="525" y="256" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="7" src="smanb08.png" x="350" y="256" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="8" src="smanb09.png" x="175" y="256" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="9" src="smanb10.png" x="0" y="768" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="10" src="smanb11.png" x="0" y="512" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="11" src="smanb12.png" x="0" y="256" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="12" src="smanb13.png" x="525" y="0" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="13" src="smanb14.png" x="350" y="0" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="14" src="smanb15.png" x="175" y="0" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+    <textureregion id="15" src="smanb16.png" x="0" y="0" width="175" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="175" srcheight="256"/>
+</texture>

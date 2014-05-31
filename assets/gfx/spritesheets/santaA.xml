@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="santaA.png" type="bitmap" width="904" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:65177d49b9b1c512f2941dca0a704f12:478ec60e94e71c403bff6147f1df6e2f:78bf7abe234b9f0c966bd86b8995b0f7$ -->
+    <textureregion id="0" src="_0000_o_5fb241315a4bcee3-100.png" x="2" y="2" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="1" src="_0001_o_5fb241315a4bcee3-182.png" x="152" y="2" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="2" src="_0002_o_5fb241315a4bcee3-181.png" x="302" y="2" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="3" src="_0003_o_5fb241315a4bcee3-179.png" x="452" y="2" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="4" src="_0004_o_5fb241315a4bcee3-178.png" x="602" y="2" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="5" src="_0005_o_5fb241315a4bcee3-177.png" x="752" y="2" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="6" src="_0006_o_5fb241315a4bcee3-175.png" x="2" y="172" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="7" src="_0007_o_5fb241315a4bcee3-174.png" x="152" y="172" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="8" src="_0008_o_5fb241315a4bcee3-173.png" x="302" y="172" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="9" src="_0009_o_5fb241315a4bcee3-172.png" x="452" y="172" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="10" src="_0010_o_5fb241315a4bcee3-170.png" x="602" y="172" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="11" src="_0011_o_5fb241315a4bcee3-169.png" x="752" y="172" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="12" src="_0012_o_5fb241315a4bcee3-168.png" x="2" y="342" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="13" src="_0013_o_5fb241315a4bcee3-167.png" x="152" y="342" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="14" src="_0014_o_5fb241315a4bcee3-145.png" x="302" y="342" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="15" src="_0015_o_5fb241315a4bcee3-144.png" x="452" y="342" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="16" src="_0016_o_5fb241315a4bcee3-143.png" x="602" y="342" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="17" src="_0017_o_5fb241315a4bcee3-142.png" x="752" y="342" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="18" src="_0018_o_5fb241315a4bcee3-141.png" x="2" y="512" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="19" src="_0019_o_5fb241315a4bcee3-139.png" x="152" y="512" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="20" src="_0020_o_5fb241315a4bcee3-138.png" x="302" y="512" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="21" src="_0021_o_5fb241315a4bcee3-137.png" x="452" y="512" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="22" src="_0022_o_5fb241315a4bcee3-135.png" x="602" y="512" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="23" src="_0023_o_5fb241315a4bcee3-134.png" x="752" y="512" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="24" src="_0024_o_5fb241315a4bcee3-133.png" x="2" y="682" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="25" src="_0025_o_5fb241315a4bcee3-132.png" x="152" y="682" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="26" src="_0026_o_5fb241315a4bcee3-131.png" x="302" y="682" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="27" src="_0027_o_5fb241315a4bcee3-129-2.png" x="452" y="682" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="28" src="_0028_o_5fb241315a4bcee3-128.png" x="602" y="682" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="29" src="_0029_o_5fb241315a4bcee3-127.png" x="752" y="682" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="30" src="_0030_o_5fb241315a4bcee3-126.png" x="2" y="852" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="31" src="_0031_o_5fb241315a4bcee3-105.png" x="152" y="852" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="32" src="_0032_o_5fb241315a4bcee3-103-2.png" x="302" y="852" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="33" src="_0033_o_5fb241315a4bcee3-102.png" x="452" y="852" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="34" src="_0034_o_5fb241315a4bcee3-101.png" x="602" y="852" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+    <textureregion id="35" src="_0035_Шар-0.png" x="752" y="852" width="150" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="170"/>
+</texture>

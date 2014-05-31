@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="deer1.png" type="bitmap" width="725" height="725" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="repeat" premultiplyalpha="true">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:f06c4d11ceaea33e82ef48c6c55f71a6:8dd9af577d9025fb9ac56330fb28fe2f:19a31b7a9afade01366a90265139e83d$ -->
+    <textureregion id="0" src="l01.png" x="1" y="1" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="1" src="l02.png" x="146" y="1" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="2" src="l03.png" x="291" y="1" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="3" src="l04.png" x="436" y="1" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="4" src="l05.png" x="581" y="1" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="5" src="l06.png" x="1" y="146" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="6" src="l07.png" x="146" y="146" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="7" src="l08.png" x="291" y="146" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="8" src="l09.png" x="436" y="146" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="9" src="l10.png" x="581" y="146" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="10" src="r01.png" x="1" y="291" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="11" src="r02.png" x="146" y="291" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="12" src="r03.png" x="291" y="291" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="13" src="r04.png" x="436" y="291" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="14" src="r05.png" x="581" y="291" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="15" src="r06.png" x="1" y="436" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="16" src="r07.png" x="146" y="436" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="17" src="r08.png" x="291" y="436" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="18" src="r09.png" x="436" y="436" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="19" src="r10.png" x="581" y="436" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="20" src="r11.png" x="1" y="581" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="21" src="r12.png" x="146" y="581" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="22" src="r13.png" x="291" y="581" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+    <textureregion id="23" src="r14.png" x="436" y="581" width="143" height="143" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="143"/>
+</texture>
